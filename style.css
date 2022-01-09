@@ -1,0 +1,11 @@
+body{font-family: 'Bebas Neue', cursive;}
+h1{font-size: 50px;}
+
+.green-color{color:rgb(1, 160, 120)}
+.flexible-container{display:flex}
+.half-width{ width: 50%;padding-left: 10%;}
+.half-width img{width: 70%;}
+.link-button{ text-decoration: none;background-color: rgb(69, 128, 69);padding: 10px 40px;border-radius: 10px;
+color: white; font-weight: 700;}
+.ms1{text-align: center;}
+.width1{background-image: url(images/shapes/shape-3.png);}
